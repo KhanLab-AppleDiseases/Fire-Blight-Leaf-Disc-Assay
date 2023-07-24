@@ -19,8 +19,8 @@ Software: ImageJ (Fiji)
 
 #Input all output and file names here
 
-#folder_path (string): Full path to the folder containing images to analyze.
-#data_name_out (string): The name of the final dataset output (without .csv in name)
+folder_path (string): Full path to the folder containing images to analyze.
+data_name_out (string): The name of the final dataset output (without .csv in name)
 #output_folder_path (string): WorkDir - The full path where the classified and cropped images output
 #pdf_file_name (string): The full path to the txt file with the probability density function (PDF)
 
