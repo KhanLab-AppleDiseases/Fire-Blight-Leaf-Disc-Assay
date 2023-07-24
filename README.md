@@ -7,9 +7,9 @@ Language: Python
 This code was written using JupyterNotebook, so it is suggested to continue using IDEs compatible with the .ipynb filetype (i.e. JupyterNotebook, VSCode, etc.)
 
 ## Preprocessing
-Software: ImageJ (Fiji)
+Software: ImageJ (Fiji) ![image](https://github.com/RichardTegtmeier/Fire-Blight-Leaf-Disc-Assay/assets/55664780/d0ecad09-d52a-4b38-8117-fc6625ad4f90)
 
-![image](https://github.com/RichardTegtmeier/Fire-Blight-Leaf-Disc-Assay/assets/55664780/8fc82726-7d73-4766-a79c-e77d71d2b2d1)
+
 
 
 ## Main Pipeline
