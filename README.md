@@ -9,6 +9,7 @@ This code was written using JupyterNotebook, so it is suggested to continue usin
 ## Preprocessing
 Software: ImageJ (Fiji)
 
+![image](https://github.com/RichardTegtmeier/Fire-Blight-Leaf-Disc-Assay/assets/55664780/8fc82726-7d73-4766-a79c-e77d71d2b2d1)
 
 
 ## Main Pipeline
