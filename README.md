@@ -11,14 +11,18 @@ Software: ImageJ (Fiji)
 
 ![image](https://github.com/RichardTegtmeier/Fire-Blight-Leaf-Disc-Assay/assets/55664780/d0ecad09-d52a-4b38-8117-fc6625ad4f90)
 
-![TrialB_Robusta5_48_07282022_](https://github.com/RichardTegtmeier/Fire-Blight-Leaf-Disc-Assay/assets/55664780/c80ca625-0c29-4153-8336-df1df6c31fe3)
+1) Use the image -> transform options to properly orient the full tray image
+2) Use the polygon selections + Edit -> Clear (make sure the clear fill color is set to white)
+3) Use the rectangle selection tool + File -> Save as -> .tiff to save the leaf discs for each genotype as a single image (see sample data)
+   
+Note: Be very sure that the leaf discs are spaced properly and the discs are fully in the image, not touching the edge in any way!
+
+Note: For higher volume experiments with more timepoints, I have written a Fiji macro that will auto crop and name images with from simple text file of genotype names and coords (available upon request)
 
 
 
 ## Main Pipeline
-![RGB_Image_LeafDiscAssy_SampleDataSet_Final13](https://github.com/RichardTegtmeier/Fire-Blight-Leaf-Disc-Assay/assets/55664780/ed52c896-5087-45e3-800b-3af5402dcb34 | width = 2) 
-
-![Class_Image_LeafDiscAssy_SampleDataSet_Final13](https://github.com/RichardTegtmeier/Fire-Blight-Leaf-Disc-Assay/assets/55664780/b37c160d-81b6-4d6d-8e26-e48717d6c8c9) 
+![RGB_Image_LeafDiscAssy_SampleDataSet_Final13](https://github.com/RichardTegtmeier/Fire-Blight-Leaf-Disc-Assay/assets/55664780/ed52c896-5087-45e3-800b-3af5402dcb34) ![Class_Image_LeafDiscAssy_SampleDataSet_Final13](https://github.com/RichardTegtmeier/Fire-Blight-Leaf-Disc-Assay/assets/55664780/b37c160d-81b6-4d6d-8e26-e48717d6c8c9) 
 
 #Input all output and file names here
 
