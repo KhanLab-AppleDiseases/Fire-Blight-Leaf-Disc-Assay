@@ -24,11 +24,9 @@ Software: ImageJ (Fiji)
 #output_folder_path (string): WorkDir - The full path where the classified and cropped images output
 #pdf_file_name (string): The full path to the txt file with the probability density function (PDF)
 
-#nrow (int): number of rows plantcv will use to make grid 
-#                    (more is better otherwise, two disks can get grouped)
+#nrow (int): number of rows plantcv will use to make grid  (more is better otherwise, two disks can get grouped)
 
-#ncol (int): number of cols plantcv will use to make grid
-                    #(more is better otherwise, two disks can get grouped)
+#ncol (int): number of cols plantcv will use to make grid (more is better otherwise, two disks can get grouped)
     
 data_name_out = 'LeafDiscAssy_SampleDataSet_Final'
 folder_path = "C:\\Users\\[[Your Full Path]]\\Sample_Data\\"
