@@ -12,7 +12,9 @@ Software: ImageJ (Fiji)
 ![image](https://github.com/RichardTegtmeier/Fire-Blight-Leaf-Disc-Assay/assets/55664780/d0ecad09-d52a-4b38-8117-fc6625ad4f90)
 
 **1)** Use the image -> transform options to properly orient the full tray image
+
 **2)** Use the polygon selections + Edit -> Clear (make sure the clear fill color is set to white)
+
 **3)** Use the rectangle selection tool + File -> Save as -> .tiff to save the leaf discs for each genotype as a single image (see sample data)
    
 Note: Be very sure that the leaf discs are spaced properly and the discs are fully in the image, not touching the edge in any way!
@@ -25,7 +27,9 @@ Note: For higher volume experiments with more timepoints, I have written a Fiji 
 ![RGB_Image_LeafDiscAssy_SampleDataSet_Final13](https://github.com/RichardTegtmeier/Fire-Blight-Leaf-Disc-Assay/assets/55664780/ed52c896-5087-45e3-800b-3af5402dcb34) ![Class_Image_LeafDiscAssy_SampleDataSet_Final13](https://github.com/RichardTegtmeier/Fire-Blight-Leaf-Disc-Assay/assets/55664780/b37c160d-81b6-4d6d-8e26-e48717d6c8c9) 
 
 **1)** Download the .ipynb file, sample data and LeafDiscPDF_LowD.txt
+
 **2)** Run the first chunk of code to import all libraries and functions (for installing I prefer !pip install [name] in JupyterNotebook)
+
 **3)** Change the names of the final output data set (default is .csv to analyze in R) and specific paths to your files
 
 **data_name_out (string):** The name of the final dataset output (without .csv in name)
