@@ -28,7 +28,7 @@ Note: For higher volume experiments with more timepoints, I have written a Fiji 
 ## Main Pipeline
 ![RGB_Image_LeafDiscAssy_SampleDataSet_Final13](https://github.com/RichardTegtmeier/Fire-Blight-Leaf-Disc-Assay/assets/55664780/ed52c896-5087-45e3-800b-3af5402dcb34) ![Class_Image_LeafDiscAssy_SampleDataSet_Final13](https://github.com/RichardTegtmeier/Fire-Blight-Leaf-Disc-Assay/assets/55664780/b37c160d-81b6-4d6d-8e26-e48717d6c8c9) 
 
-**1)** Download the .ipynb file, sample data and LeafDiscPDF_LowD.txt
+**1)** Download the .ipynb file, sample data and LeafDiscPDF_LowD.txt (make sure the text file is in the *output_folder_path* folder)
 
 **2)** Run the first chunk of code to import all libraries and functions (for installing I prefer !pip install [name] in JupyterNotebook)
 
@@ -44,7 +44,9 @@ Note: For higher volume experiments with more timepoints, I have written a Fiji 
 
 **4)** Run the final function fb_detached_leaf_assay(folder_path, data_name_out, output_folder_path, pdf_file_name, 15,15)
 
-**NOTE:** The 15 row x 15 column grid number is arbitrary, but useful. A 15x15 grid ensures each disc is separated and analyzed individually, if you have issues with 2 discs read as 1, try increasing these numbers) 
+**NOTE:** The 15 row x 15 column grid number is arbitrary, but useful. A 15x15 grid ensures each disc is separated and analyzed individually, if you have issues with 2 discs read as 1, try increasing these numbers
+
+**NOTE:** This code is written on Windows, so if you are using a MacOS user most often the errors are due to how the backslashes are used in paths.
 
 
 
