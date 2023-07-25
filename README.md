@@ -38,7 +38,7 @@ Note: For higher volume experiments with more timepoints, I have written a Fiji 
 
 4) Run the final function fb_detached_leaf_assay(folder_path, data_name_out, output_folder_path, pdf_file_name, 15,15)
 
-**NOTE:** The 15 row x 15 column grid number is arbitrary, but useful. A 15x15 grid ensures each disc is separated and analyzed individually, if you have issues with 2 discs read as 1, try increasing these numbers)
+**NOTE:** The 15 row x 15 column grid number is arbitrary, but useful. A 15x15 grid ensures each disc is separated and analyzed individually, if you have issues with 2 discs read as 1, try increasing these numbers) 
 
 
 
