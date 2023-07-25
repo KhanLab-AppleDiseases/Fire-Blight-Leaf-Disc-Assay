@@ -24,6 +24,9 @@ Note: For higher volume experiments with more timepoints, I have written a Fiji 
 ## Main Pipeline
 ![RGB_Image_LeafDiscAssy_SampleDataSet_Final13](https://github.com/RichardTegtmeier/Fire-Blight-Leaf-Disc-Assay/assets/55664780/ed52c896-5087-45e3-800b-3af5402dcb34) ![Class_Image_LeafDiscAssy_SampleDataSet_Final13](https://github.com/RichardTegtmeier/Fire-Blight-Leaf-Disc-Assay/assets/55664780/b37c160d-81b6-4d6d-8e26-e48717d6c8c9) 
 
+1) Download the .ipynb file, sample data and LeafDiscPDF_LowD.txt
+2) 
+
 #Input all output and file names here
 
 folder_path (string): Full path to the folder containing images to analyze.
