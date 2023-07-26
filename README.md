@@ -1,7 +1,7 @@
 # Fire Blight Leaf Disc Assay
 The image analysis pipeline from the paper "Image-based leaf disc assay for the rapid evaluation of genetic resistance to fire blight in apples" 
 
-(Preprint | https://www.researchsquare.com/article/rs-2829015/v1)
+Preprint | https://www.researchsquare.com/article/rs-2829015/v1
 
 ## Basic Usage
 Language: Python
